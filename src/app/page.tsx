@@ -204,7 +204,7 @@ export default function Home() {
 
               {/* Right - Brand logos */}
               <div className="md:w-[50%] flex flex-row items-center justify-center gap-14 md:gap-20">
-                <div className="h-48 md:h-64 flex items-center">
+                <div className="h-56 md:h-80 flex items-center">
                   <Image
                     src="/images/stamp.png"
                     alt="NutraHer"
@@ -213,7 +213,7 @@ export default function Home() {
                     className="h-full w-auto object-contain"
                   />
                 </div>
-                <div className="h-52 md:h-72 flex items-center">
+                <div className="h-60 md:h-[22rem] flex items-center">
                   <Image
                     src="/images/enfoque-img.png"
                     alt="NutraZen"
